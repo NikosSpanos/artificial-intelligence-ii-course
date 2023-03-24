@@ -3,3 +3,8 @@ This repository includes three academic projects for the course Artificial Intel
 
 Author: Spanos Nikolaos (Candidate of the MSc) </br>
 Supervisor: Professor Manolis Koumparakis
+
+Final grades:
+- Homework 1: 10/10
+- Homework 2: 10.5/10
+- Homework 3: 10.5/10
