@@ -16,10 +16,15 @@ Final grades:
 - Homework 2: 10.5/10
 - Homework 3: 10.5/10
 
-@misc{abbreviation,
-   author = {Name Surname},
-   title = {Title},
-   institution = {University},
-   url = {URL}
+<ins>BibTex template</ins>
+```latex
+@misc{SpanosArtificialIntelligenceII,
+  author = {Spanos, Nikos},
+  title = {Artificial Intelligence II},
+  institution = {University of Athens},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/NikosSpanos/NLP_Applications}},
 }
-
+```
