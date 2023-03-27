@@ -15,3 +15,11 @@ Final grades:
 - Homework 1: 10/10
 - Homework 2: 10.5/10
 - Homework 3: 10.5/10
+
+@misc{abbreviation,
+   author = {Name Surname},
+   title = {Title},
+   institution = {University},
+   url = {URL}
+}
+
