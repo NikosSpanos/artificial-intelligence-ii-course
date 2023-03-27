@@ -16,7 +16,7 @@ Final grades:
 - Homework 2: 10.5/10
 - Homework 3: 10.5/10
 
-<ins>BibTex template</ins>
+<ins>BibTex template for citations</ins>
 ```latex
 @misc{SpanosArtificialIntelligenceII,
   author = {Spanos, Nikos},
