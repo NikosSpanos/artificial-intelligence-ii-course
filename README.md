@@ -25,6 +25,6 @@ Final grades:
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/NikosSpanos/artificial-intelligence-ii-course}},
+  howpublished = {\url{https://github.com/NikosSpanos/artificial-intelligence-ii-course}}
 }
 ```
