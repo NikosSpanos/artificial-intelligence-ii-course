@@ -8,7 +8,7 @@ The three projects deal with sentiment analysis on a binary classification probl
 **Homework 2:** Use of PyTorch feed forwards networks and deep learning techniques with *Linear* hidden layers to create a feed forward neural network for sentiment binary classification. </br>
 **Homework 3:** Use of PyTorch feed forwards networks with bidirectional *LSTM*, *GRU* cells.
 
-Author: Spanos Nikolaos (Candidate of the MSc) </br>
+Author: Spanos Nikolaos (Candidate of MSc in Computer Science) </br>
 Supervisor: Professor Manolis Koumparakis
 
 Final grades:
