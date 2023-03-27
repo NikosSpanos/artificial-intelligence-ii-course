@@ -18,13 +18,13 @@ Final grades:
 
 <ins>BibTex template for citations</ins>
 ```latex
-@misc{SpanosArtificialIntelligenceII,
+@misc{SpanosArtificialIntelligenceII2023,
   author = {Spanos, Nikos},
   title = {Artificial Intelligence II},
   institution = {University of Athens},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/NikosSpanos/NLP_Applications}},
+  howpublished = {\url{https://github.com/NikosSpanos/artificial-intelligence-ii-course}},
 }
 ```
