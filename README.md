@@ -1,7 +1,7 @@
 # artificial-intelligence-ii-course
 This repository includes three academic projects for the course Artificial Intelligence II of MSc in Computer Science University of Athens (UoA) - Fall Semester 2023.
 
-The three projects deal with sentiment analysis on a binary classification problem. The sentiment analysis is a positive or a negative movie review. </br>
+The three projects deal with sentiment analysis on a binary classification problem. The sentiment analysis aims to train a model classifier that will predict the sentiment of a positive or a negative movie review from IMDB movies. </br>
 
 <ins>Brief project description</ins></br>
 **Homework 1:** Use of sklearn python module to develop and test different Machine Learning algorithms for binary classification. The predictive performance of each model was tested. </br>
