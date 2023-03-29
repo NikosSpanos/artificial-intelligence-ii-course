@@ -4,9 +4,9 @@ This repository includes three academic projects for the course Artificial Intel
 The three projects deal with sentiment analysis on a binary classification problem. The sentiment analysis aims to train a model classifier that will predict the sentiment of a positive or a negative movie review from IMDB movies. </br>
 
 <ins>Brief project description</ins></br>
-**Homework 1:** Use of sklearn python module to develop and test different Machine Learning algorithms for binary classification. The predictive performance of each model was tested. </br>
-**Homework 2:** Use of PyTorch feed forwards networks and deep learning techniques with *Linear* hidden layers to create a feed forward neural network for sentiment binary classification. </br>
-**Homework 3:** Use of PyTorch feed forwards networks with bidirectional *LSTM*, *GRU* cells.
+* **Homework 1:** Use of sklearn python module to develop and test different Machine Learning algorithms for binary classification. The predictive performance of each model was tested. </br>
+* **Homework 2:** Use of PyTorch feed forwards networks and deep learning techniques with *Linear* hidden layers to create a feed forward neural network for sentiment binary classification. </br>
+* **Homework 3:** Use of PyTorch feed forwards networks with bidirectional *LSTM*, *GRU* cells.
 
 Author: Spanos Nikolaos (Candidate of MSc in Computer Science) </br>
 Supervisor: Professor Manolis Koumparakis
